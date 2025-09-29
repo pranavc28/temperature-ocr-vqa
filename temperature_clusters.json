@@ -1,0 +1,1133 @@
+{
+  "Low-temperature optimal": [
+    {
+      "question": "Is this a historical book?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.2,
+      "best_accuracy": 0.9444,
+      "mean_accuracy": 0.9259,
+      "std_accuracy": 0.0207,
+      "slope": -0.0159,
+      "accuracies": {
+        "0.0": 0.9167,
+        "0.2": 0.9444,
+        "0.4": 0.9167,
+        "0.6": 0.9444,
+        "0.8": 0.9444,
+        "1.0": 0.8889
+      }
+    },
+    {
+      "question": "Is this a homosexuality book?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.8889,
+      "mean_accuracy": 0.7528,
+      "std_accuracy": 0.089,
+      "slope": -0.0532,
+      "accuracies": {
+        "0.0": 0.8889,
+        "0.2": 0.6,
+        "0.4": 0.7778,
+        "0.6": 0.8,
+        "0.8": 0.7,
+        "1.0": 0.75
+      }
+    },
+    {
+      "question": "Is this a journey related book?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.2,
+      "best_accuracy": 0.8158,
+      "mean_accuracy": 0.7675,
+      "std_accuracy": 0.0281,
+      "slope": 0.0113,
+      "accuracies": {
+        "0.0": 0.7368,
+        "0.2": 0.8158,
+        "0.4": 0.7632,
+        "0.6": 0.7368,
+        "0.8": 0.7632,
+        "1.0": 0.7895
+      }
+    },
+    {
+      "question": "Is this a reference book?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.2,
+      "best_accuracy": 0.5862,
+      "mean_accuracy": 0.5632,
+      "std_accuracy": 0.0163,
+      "slope": 0.0099,
+      "accuracies": {
+        "0.0": 0.5517,
+        "0.2": 0.5862,
+        "0.4": 0.5517,
+        "0.6": 0.5517,
+        "0.8": 0.5517,
+        "1.0": 0.5862
+      }
+    },
+    {
+      "question": "Is this a romantic book?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.8485,
+      "mean_accuracy": 0.8232,
+      "std_accuracy": 0.0272,
+      "slope": 0.0043,
+      "accuracies": {
+        "0.0": 0.8485,
+        "0.2": 0.7879,
+        "0.4": 0.8182,
+        "0.6": 0.8485,
+        "0.8": 0.7879,
+        "1.0": 0.8485
+      }
+    },
+    {
+      "question": "Is this a sociopolitical book?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.5909,
+      "mean_accuracy": 0.5833,
+      "std_accuracy": 0.0169,
+      "slope": -0.0195,
+      "accuracies": {
+        "0.0": 0.5909,
+        "0.2": 0.5909,
+        "0.4": 0.5909,
+        "0.6": 0.5909,
+        "0.8": 0.5455,
+        "1.0": 0.5909
+      }
+    },
+    {
+      "question": "Is this a transportation engineering book?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.8095,
+      "mean_accuracy": 0.7698,
+      "std_accuracy": 0.0177,
+      "slope": -0.034,
+      "accuracies": {
+        "0.0": 0.8095,
+        "0.2": 0.7619,
+        "0.4": 0.7619,
+        "0.6": 0.7619,
+        "0.8": 0.7619,
+        "1.0": 0.7619
+      }
+    },
+    {
+      "question": "Is this a youngster related book?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.6944,
+      "mean_accuracy": 0.6481,
+      "std_accuracy": 0.0207,
+      "slope": -0.0397,
+      "accuracies": {
+        "0.0": 0.6944,
+        "0.2": 0.6389,
+        "0.4": 0.6389,
+        "0.6": 0.6389,
+        "0.8": 0.6389,
+        "1.0": 0.6389
+      }
+    },
+    {
+      "question": "Is this an art related book?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.2,
+      "best_accuracy": 0.8966,
+      "mean_accuracy": 0.8793,
+      "std_accuracy": 0.0172,
+      "slope": -0.0148,
+      "accuracies": {
+        "0.0": 0.8621,
+        "0.2": 0.8966,
+        "0.4": 0.8966,
+        "0.6": 0.8966,
+        "0.8": 0.8621,
+        "1.0": 0.8621
+      }
+    },
+    {
+      "question": "Is this book related to Arts & Photography?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.2,
+      "best_accuracy": 0.9048,
+      "mean_accuracy": 0.8889,
+      "std_accuracy": 0.0224,
+      "slope": 0.0272,
+      "accuracies": {
+        "0.0": 0.8571,
+        "0.2": 0.9048,
+        "0.4": 0.9048,
+        "0.6": 0.8571,
+        "0.8": 0.9048,
+        "1.0": 0.9048
+      }
+    },
+    {
+      "question": "Is this book related to Gay & Lesbian?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.0,
+      "best_accuracy": 1.0,
+      "mean_accuracy": 0.9487,
+      "std_accuracy": 0.0363,
+      "slope": -0.0659,
+      "accuracies": {
+        "0.0": 1.0,
+        "0.2": 0.9231,
+        "0.4": 1.0,
+        "0.6": 0.9231,
+        "0.8": 0.9231,
+        "1.0": 0.9231
+      }
+    },
+    {
+      "question": "Is this book related to Medical Books?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.8182,
+      "mean_accuracy": 0.8068,
+      "std_accuracy": 0.0174,
+      "slope": -0.0422,
+      "accuracies": {
+        "0.0": 0.8182,
+        "0.2": 0.8182,
+        "0.4": 0.8182,
+        "0.6": 0.8182,
+        "0.8": 0.7955,
+        "1.0": 0.7727
+      }
+    },
+    {
+      "question": "Is this book related to Reference?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.2,
+      "best_accuracy": 0.6,
+      "mean_accuracy": 0.55,
+      "std_accuracy": 0.0577,
+      "slope": -0.0429,
+      "accuracies": {
+        "0.0": 0.55,
+        "0.2": 0.6,
+        "0.4": 0.6,
+        "0.6": 0.5,
+        "0.8": 0.45,
+        "1.0": 0.6
+      }
+    },
+    {
+      "question": "Is this book related to Religion & Spirituality?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.8276,
+      "mean_accuracy": 0.8046,
+      "std_accuracy": 0.0163,
+      "slope": -0.0197,
+      "accuracies": {
+        "0.0": 0.8276,
+        "0.2": 0.7931,
+        "0.4": 0.7931,
+        "0.6": 0.8276,
+        "0.8": 0.7931,
+        "1.0": 0.7931
+      }
+    },
+    {
+      "question": "Is this book related to Romance?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.2,
+      "best_accuracy": 1.0,
+      "mean_accuracy": 0.9603,
+      "std_accuracy": 0.0177,
+      "slope": -0.0204,
+      "accuracies": {
+        "0.0": 0.9524,
+        "0.2": 1.0,
+        "0.4": 0.9524,
+        "0.6": 0.9524,
+        "0.8": 0.9524,
+        "1.0": 0.9524
+      }
+    },
+    {
+      "question": "Is this book related to Self-Help?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.2,
+      "best_accuracy": 0.9545,
+      "mean_accuracy": 0.9318,
+      "std_accuracy": 0.0227,
+      "slope": 0.0065,
+      "accuracies": {
+        "0.0": 0.9091,
+        "0.2": 0.9545,
+        "0.4": 0.9545,
+        "0.6": 0.9091,
+        "0.8": 0.9091,
+        "1.0": 0.9545
+      }
+    },
+    {
+      "question": "Is this book related to Sports & Outdoors?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.963,
+      "mean_accuracy": 0.9321,
+      "std_accuracy": 0.0255,
+      "slope": -0.0582,
+      "accuracies": {
+        "0.0": 0.963,
+        "0.2": 0.963,
+        "0.4": 0.9259,
+        "0.6": 0.9259,
+        "0.8": 0.8889,
+        "1.0": 0.9259
+      }
+    },
+    {
+      "question": "Is this book related to Teen & Young Adult?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.8696,
+      "mean_accuracy": 0.8297,
+      "std_accuracy": 0.0385,
+      "slope": -0.0839,
+      "accuracies": {
+        "0.0": 0.8696,
+        "0.2": 0.8261,
+        "0.4": 0.8478,
+        "0.6": 0.8696,
+        "0.8": 0.8043,
+        "1.0": 0.7609
+      }
+    },
+    {
+      "question": "Is this christianity book?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.2,
+      "best_accuracy": 0.878,
+      "mean_accuracy": 0.8333,
+      "std_accuracy": 0.0296,
+      "slope": -0.0105,
+      "accuracies": {
+        "0.0": 0.8293,
+        "0.2": 0.878,
+        "0.4": 0.8293,
+        "0.6": 0.7805,
+        "0.8": 0.8293,
+        "1.0": 0.8537
+      }
+    },
+    {
+      "question": "What is the edition of this book?",
+      "cluster": "Low-temperature optimal",
+      "best_temperature": 0.2,
+      "best_accuracy": 1.0,
+      "mean_accuracy": 0.3333,
+      "std_accuracy": 0.4714,
+      "slope": -0.5714,
+      "accuracies": {
+        "0.0": 0.0,
+        "0.2": 1.0,
+        "0.4": 1.0,
+        "0.6": 0.0,
+        "0.8": 0.0,
+        "1.0": 0.0
+      }
+    }
+  ],
+  "Mid-temperature optimal": [
+    {
+      "question": "Is this a child-care book?",
+      "cluster": "Mid-temperature optimal",
+      "best_temperature": 0.6,
+      "best_accuracy": 0.9048,
+      "mean_accuracy": 0.873,
+      "std_accuracy": 0.0224,
+      "slope": 0.0272,
+      "accuracies": {
+        "0.0": 0.8571,
+        "0.2": 0.8571,
+        "0.4": 0.8571,
+        "0.6": 0.9048,
+        "0.8": 0.9048,
+        "1.0": 0.8571
+      }
+    },
+    {
+      "question": "Is this a comics book?",
+      "cluster": "Mid-temperature optimal",
+      "best_temperature": 0.6,
+      "best_accuracy": 0.9412,
+      "mean_accuracy": 0.8725,
+      "std_accuracy": 0.0404,
+      "slope": -0.0588,
+      "accuracies": {
+        "0.0": 0.8824,
+        "0.2": 0.8824,
+        "0.4": 0.8824,
+        "0.6": 0.9412,
+        "0.8": 0.8235,
+        "1.0": 0.8235
+      }
+    },
+    {
+      "question": "Is this a fitness book?",
+      "cluster": "Mid-temperature optimal",
+      "best_temperature": 0.4,
+      "best_accuracy": 0.5882,
+      "mean_accuracy": 0.5621,
+      "std_accuracy": 0.0185,
+      "slope": -0.0,
+      "accuracies": {
+        "0.0": 0.5686,
+        "0.2": 0.549,
+        "0.4": 0.5882,
+        "0.6": 0.5294,
+        "0.8": 0.5686,
+        "1.0": 0.5686
+      }
+    },
+    {
+      "question": "Is this a games related book?",
+      "cluster": "Mid-temperature optimal",
+      "best_temperature": 0.4,
+      "best_accuracy": 0.7429,
+      "mean_accuracy": 0.719,
+      "std_accuracy": 0.0196,
+      "slope": 0.0286,
+      "accuracies": {
+        "0.0": 0.6857,
+        "0.2": 0.7143,
+        "0.4": 0.7429,
+        "0.6": 0.7143,
+        "0.8": 0.7429,
+        "1.0": 0.7143
+      }
+    },
+    {
+      "question": "Is this a judicial book?",
+      "cluster": "Mid-temperature optimal",
+      "best_temperature": 0.4,
+      "best_accuracy": 0.8182,
+      "mean_accuracy": 0.7879,
+      "std_accuracy": 0.0283,
+      "slope": -0.0,
+      "accuracies": {
+        "0.0": 0.7955,
+        "0.2": 0.75,
+        "0.4": 0.8182,
+        "0.6": 0.8182,
+        "0.8": 0.75,
+        "1.0": 0.7955
+      }
+    },
+    {
+      "question": "Is this a motivational book?",
+      "cluster": "Mid-temperature optimal",
+      "best_temperature": 0.6,
+      "best_accuracy": 0.9412,
+      "mean_accuracy": 0.9118,
+      "std_accuracy": 0.0294,
+      "slope": 0.0756,
+      "accuracies": {
+        "0.0": 0.8824,
+        "0.2": 0.8824,
+        "0.4": 0.8824,
+        "0.6": 0.9412,
+        "0.8": 0.9412,
+        "1.0": 0.9412
+      }
+    },
+    {
+      "question": "Is this a pedagogy book?",
+      "cluster": "Mid-temperature optimal",
+      "best_temperature": 0.6,
+      "best_accuracy": 0.9,
+      "mean_accuracy": 0.8167,
+      "std_accuracy": 0.0373,
+      "slope": 0.0143,
+      "accuracies": {
+        "0.0": 0.8,
+        "0.2": 0.8,
+        "0.4": 0.8,
+        "0.6": 0.9,
+        "0.8": 0.8,
+        "1.0": 0.8
+      }
+    },
+    {
+      "question": "Is this book related to Crafts, Hobbies & Home?",
+      "cluster": "Mid-temperature optimal",
+      "best_temperature": 0.6,
+      "best_accuracy": 0.9394,
+      "mean_accuracy": 0.9141,
+      "std_accuracy": 0.0208,
+      "slope": 0.039,
+      "accuracies": {
+        "0.0": 0.9091,
+        "0.2": 0.8788,
+        "0.4": 0.9091,
+        "0.6": 0.9394,
+        "0.8": 0.9091,
+        "1.0": 0.9394
+      }
+    },
+    {
+      "question": "Is this book related to Education & Teaching?",
+      "cluster": "Mid-temperature optimal",
+      "best_temperature": 0.4,
+      "best_accuracy": 0.7333,
+      "mean_accuracy": 0.6444,
+      "std_accuracy": 0.0497,
+      "slope": -0.0952,
+      "accuracies": {
+        "0.0": 0.6667,
+        "0.2": 0.6667,
+        "0.4": 0.7333,
+        "0.6": 0.6,
+        "0.8": 0.6,
+        "1.0": 0.6
+      }
+    },
+    {
+      "question": "Is this book related to Literature & Fiction?",
+      "cluster": "Mid-temperature optimal",
+      "best_temperature": 0.4,
+      "best_accuracy": 0.8776,
+      "mean_accuracy": 0.8503,
+      "std_accuracy": 0.0226,
+      "slope": -0.0175,
+      "accuracies": {
+        "0.0": 0.8571,
+        "0.2": 0.8367,
+        "0.4": 0.8776,
+        "0.6": 0.8367,
+        "0.8": 0.8776,
+        "1.0": 0.8163
+      }
+    }
+  ],
+  "High-temperature optimal": [
+    {
+      "question": "Is this a religious book?",
+      "cluster": "High-temperature optimal",
+      "best_temperature": 1.0,
+      "best_accuracy": 0.8485,
+      "mean_accuracy": 0.7929,
+      "std_accuracy": 0.0272,
+      "slope": 0.0303,
+      "accuracies": {
+        "0.0": 0.7879,
+        "0.2": 0.7879,
+        "0.4": 0.7879,
+        "0.6": 0.7879,
+        "0.8": 0.7576,
+        "1.0": 0.8485
+      }
+    },
+    {
+      "question": "Is this a sci-fi book?",
+      "cluster": "High-temperature optimal",
+      "best_temperature": 1.0,
+      "best_accuracy": 0.76,
+      "mean_accuracy": 0.7192,
+      "std_accuracy": 0.0233,
+      "slope": 0.0081,
+      "accuracies": {
+        "0.0": 0.72,
+        "0.2": 0.7308,
+        "0.4": 0.72,
+        "0.6": 0.6923,
+        "0.8": 0.6923,
+        "1.0": 0.76
+      }
+    },
+    {
+      "question": "Is this book related to Humor & Entertainment?",
+      "cluster": "High-temperature optimal",
+      "best_temperature": 1.0,
+      "best_accuracy": 0.7826,
+      "mean_accuracy": 0.75,
+      "std_accuracy": 0.0208,
+      "slope": 0.0528,
+      "accuracies": {
+        "0.0": 0.7391,
+        "0.2": 0.7174,
+        "0.4": 0.7391,
+        "0.6": 0.7609,
+        "0.8": 0.7609,
+        "1.0": 0.7826
+      }
+    },
+    {
+      "question": "Is this book related to Politics & Social Sciences?",
+      "cluster": "High-temperature optimal",
+      "best_temperature": 1.0,
+      "best_accuracy": 0.8421,
+      "mean_accuracy": 0.732,
+      "std_accuracy": 0.0599,
+      "slope": 0.0658,
+      "accuracies": {
+        "0.0": 0.7,
+        "0.2": 0.75,
+        "0.4": 0.75,
+        "0.6": 0.65,
+        "0.8": 0.7,
+        "1.0": 0.8421
+      }
+    }
+  ],
+  "Temperature-robust": [
+    {
+      "question": "Is this a comedy book?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.6,
+      "best_accuracy": 0.5806,
+      "mean_accuracy": 0.5685,
+      "std_accuracy": 0.0086,
+      "slope": 0.0104,
+      "accuracies": {
+        "0.0": 0.5625,
+        "0.2": 0.5625,
+        "0.4": 0.5625,
+        "0.6": 0.5806,
+        "0.8": 0.5806,
+        "1.0": 0.5625
+      }
+    },
+    {
+      "question": "Is this a crafts or hobbies related book?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 1.0,
+      "best_accuracy": 0.8621,
+      "mean_accuracy": 0.8381,
+      "std_accuracy": 0.0107,
+      "slope": 0.0205,
+      "accuracies": {
+        "0.0": 0.8333,
+        "0.2": 0.8333,
+        "0.4": 0.8333,
+        "0.6": 0.8333,
+        "0.8": 0.8333,
+        "1.0": 0.8621
+      }
+    },
+    {
+      "question": "Is this a digital technology book?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.4,
+      "best_accuracy": 0.9394,
+      "mean_accuracy": 0.9239,
+      "std_accuracy": 0.0148,
+      "slope": 0.0295,
+      "accuracies": {
+        "0.0": 0.9091,
+        "0.2": 0.9091,
+        "0.4": 0.9394,
+        "0.6": 0.9091,
+        "0.8": 0.9375,
+        "1.0": 0.9394
+      }
+    },
+    {
+      "question": "Is this a financial book?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.5882,
+      "mean_accuracy": 0.5833,
+      "std_accuracy": 0.011,
+      "slope": -0.021,
+      "accuracies": {
+        "0.0": 0.5882,
+        "0.2": 0.5882,
+        "0.4": 0.5882,
+        "0.6": 0.5882,
+        "0.8": 0.5882,
+        "1.0": 0.5588
+      }
+    },
+    {
+      "question": "Is this a kids book?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.8644,
+      "mean_accuracy": 0.8531,
+      "std_accuracy": 0.0126,
+      "slope": -0.0339,
+      "accuracies": {
+        "0.0": 0.8644,
+        "0.2": 0.8644,
+        "0.4": 0.8644,
+        "0.6": 0.8475,
+        "0.8": 0.8475,
+        "1.0": 0.8305
+      }
+    },
+    {
+      "question": "Is this a life story book?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.8214,
+      "mean_accuracy": 0.8214,
+      "std_accuracy": 0.0,
+      "slope": -0.0,
+      "accuracies": {
+        "0.0": 0.8214,
+        "0.2": 0.8214,
+        "0.4": 0.8214,
+        "0.6": 0.8214,
+        "0.8": 0.8214,
+        "1.0": 0.8214
+      }
+    },
+    {
+      "question": "Is this a pharmaceutical book?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 1.0,
+      "best_accuracy": 0.3265,
+      "mean_accuracy": 0.3044,
+      "std_accuracy": 0.0099,
+      "slope": 0.019,
+      "accuracies": {
+        "0.0": 0.3,
+        "0.2": 0.3,
+        "0.4": 0.3,
+        "0.6": 0.3,
+        "0.8": 0.3,
+        "1.0": 0.3265
+      }
+    },
+    {
+      "question": "Is this a recipe book?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.871,
+      "mean_accuracy": 0.871,
+      "std_accuracy": 0.0,
+      "slope": 0.0,
+      "accuracies": {
+        "0.0": 0.871,
+        "0.2": 0.871,
+        "0.4": 0.871,
+        "0.6": 0.871,
+        "0.8": 0.871,
+        "1.0": 0.871
+      }
+    },
+    {
+      "question": "Is this an exam preparation book?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.4,
+      "best_accuracy": 0.9583,
+      "mean_accuracy": 0.9577,
+      "std_accuracy": 0.0009,
+      "slope": 0.0021,
+      "accuracies": {
+        "0.0": 0.9565,
+        "0.2": 0.9565,
+        "0.4": 0.9583,
+        "0.6": 0.9583,
+        "0.8": 0.9583,
+        "1.0": 0.9583
+      }
+    },
+    {
+      "question": "Is this book related to Biographies & Memoirs?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.9167,
+      "mean_accuracy": 0.9167,
+      "std_accuracy": 0.0,
+      "slope": 0.0,
+      "accuracies": {
+        "0.0": 0.9167,
+        "0.2": 0.9167,
+        "0.4": 0.9167,
+        "0.6": 0.9167,
+        "0.8": 0.9167,
+        "1.0": 0.9167
+      }
+    },
+    {
+      "question": "Is this book related to Business & Money?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.2,
+      "best_accuracy": 0.85,
+      "mean_accuracy": 0.8375,
+      "std_accuracy": 0.0125,
+      "slope": 0.0036,
+      "accuracies": {
+        "0.0": 0.825,
+        "0.2": 0.85,
+        "0.4": 0.85,
+        "0.6": 0.825,
+        "0.8": 0.825,
+        "1.0": 0.85
+      }
+    },
+    {
+      "question": "Is this book related to Calendars?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 1.0,
+      "mean_accuracy": 1.0,
+      "std_accuracy": 0.0,
+      "slope": 0.0,
+      "accuracies": {
+        "0.0": 1.0,
+        "0.2": 1.0,
+        "0.4": 1.0,
+        "0.6": 1.0,
+        "0.8": 1.0,
+        "1.0": 1.0
+      }
+    },
+    {
+      "question": "Is this book related to Children's Books?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.9024,
+      "mean_accuracy": 0.8845,
+      "std_accuracy": 0.008,
+      "slope": -0.0153,
+      "accuracies": {
+        "0.0": 0.9024,
+        "0.2": 0.881,
+        "0.4": 0.881,
+        "0.6": 0.881,
+        "0.8": 0.881,
+        "1.0": 0.881
+      }
+    },
+    {
+      "question": "Is this book related to Christian Books & Bibles?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.2,
+      "best_accuracy": 0.9535,
+      "mean_accuracy": 0.938,
+      "std_accuracy": 0.011,
+      "slope": 0.0066,
+      "accuracies": {
+        "0.0": 0.9302,
+        "0.2": 0.9535,
+        "0.4": 0.9302,
+        "0.6": 0.9302,
+        "0.8": 0.9302,
+        "1.0": 0.9535
+      }
+    },
+    {
+      "question": "Is this book related to Comics & Graphic Novels?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 1.0,
+      "mean_accuracy": 1.0,
+      "std_accuracy": 0.0,
+      "slope": 0.0,
+      "accuracies": {
+        "0.0": 1.0,
+        "0.2": 1.0,
+        "0.4": 1.0,
+        "0.6": 1.0,
+        "0.8": 1.0,
+        "1.0": 1.0
+      }
+    },
+    {
+      "question": "Is this book related to Computers & Technology?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.9762,
+      "mean_accuracy": 0.9762,
+      "std_accuracy": 0.0,
+      "slope": 0.0,
+      "accuracies": {
+        "0.0": 0.9762,
+        "0.2": 0.9762,
+        "0.4": 0.9762,
+        "0.6": 0.9762,
+        "0.8": 0.9762,
+        "1.0": 0.9762
+      }
+    },
+    {
+      "question": "Is this book related to Cookbooks, Food & Wine?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.9706,
+      "mean_accuracy": 0.9608,
+      "std_accuracy": 0.0139,
+      "slope": -0.0168,
+      "accuracies": {
+        "0.0": 0.9706,
+        "0.2": 0.9706,
+        "0.4": 0.9412,
+        "0.6": 0.9706,
+        "0.8": 0.9706,
+        "1.0": 0.9412
+      }
+    },
+    {
+      "question": "Is this book related to Engineering & Transportation?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.9677,
+      "mean_accuracy": 0.9677,
+      "std_accuracy": 0.0,
+      "slope": 0.0,
+      "accuracies": {
+        "0.0": 0.9677,
+        "0.2": 0.9677,
+        "0.4": 0.9677,
+        "0.6": 0.9677,
+        "0.8": 0.9677,
+        "1.0": 0.9677
+      }
+    },
+    {
+      "question": "Is this book related to Health, Fitness & Dieting?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.8537,
+      "mean_accuracy": 0.8293,
+      "std_accuracy": 0.0141,
+      "slope": -0.0279,
+      "accuracies": {
+        "0.0": 0.8537,
+        "0.2": 0.8293,
+        "0.4": 0.8293,
+        "0.6": 0.8293,
+        "0.8": 0.8049,
+        "1.0": 0.8293
+      }
+    },
+    {
+      "question": "Is this book related to History?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.913,
+      "mean_accuracy": 0.9094,
+      "std_accuracy": 0.0081,
+      "slope": -0.0093,
+      "accuracies": {
+        "0.0": 0.913,
+        "0.2": 0.913,
+        "0.4": 0.913,
+        "0.6": 0.913,
+        "0.8": 0.8913,
+        "1.0": 0.913
+      }
+    },
+    {
+      "question": "Is this book related to Law?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.8889,
+      "mean_accuracy": 0.8889,
+      "std_accuracy": 0.0,
+      "slope": 0.0,
+      "accuracies": {
+        "0.0": 0.8889,
+        "0.2": 0.8889,
+        "0.4": 0.8889,
+        "0.6": 0.8889,
+        "0.8": 0.8889,
+        "1.0": 0.8889
+      }
+    },
+    {
+      "question": "Is this book related to Mystery, Thriller & Suspense?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 1.0,
+      "mean_accuracy": 1.0,
+      "std_accuracy": 0.0,
+      "slope": 0.0,
+      "accuracies": {
+        "0.0": 1.0,
+        "0.2": 1.0,
+        "0.4": 1.0,
+        "0.6": 1.0,
+        "0.8": 1.0,
+        "1.0": 1.0
+      }
+    },
+    {
+      "question": "Is this book related to Parenting & Relationships?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.8235,
+      "mean_accuracy": 0.8235,
+      "std_accuracy": 0.0,
+      "slope": -0.0,
+      "accuracies": {
+        "0.0": 0.8235,
+        "0.2": 0.8235,
+        "0.4": 0.8235,
+        "0.6": 0.8235,
+        "0.8": 0.8235,
+        "1.0": 0.8235
+      }
+    },
+    {
+      "question": "Is this book related to Science & Math?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.2,
+      "best_accuracy": 0.8772,
+      "mean_accuracy": 0.8684,
+      "std_accuracy": 0.0088,
+      "slope": -0.0025,
+      "accuracies": {
+        "0.0": 0.8596,
+        "0.2": 0.8772,
+        "0.4": 0.8772,
+        "0.6": 0.8596,
+        "0.8": 0.8772,
+        "1.0": 0.8596
+      }
+    },
+    {
+      "question": "Is this book related to Science Fiction & Fantasy?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 1.0,
+      "mean_accuracy": 1.0,
+      "std_accuracy": 0.0,
+      "slope": 0.0,
+      "accuracies": {
+        "0.0": 1.0,
+        "0.2": 1.0,
+        "0.4": 1.0,
+        "0.6": 1.0,
+        "0.8": 1.0,
+        "1.0": 1.0
+      }
+    },
+    {
+      "question": "Is this book related to Test Preparation?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.9583,
+      "mean_accuracy": 0.9583,
+      "std_accuracy": 0.0,
+      "slope": 0.0,
+      "accuracies": {
+        "0.0": 0.9583,
+        "0.2": 0.9583,
+        "0.4": 0.9583,
+        "0.6": 0.9583,
+        "0.8": 0.9583,
+        "1.0": 0.9583
+      }
+    },
+    {
+      "question": "Is this book related to Travel?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.9111,
+      "mean_accuracy": 0.9037,
+      "std_accuracy": 0.0105,
+      "slope": -0.0063,
+      "accuracies": {
+        "0.0": 0.9111,
+        "0.2": 0.9111,
+        "0.4": 0.8889,
+        "0.6": 0.9111,
+        "0.8": 0.8889,
+        "1.0": 0.9111
+      }
+    },
+    {
+      "question": "What is the genre of this book?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 1.0,
+      "best_accuracy": 0.4115,
+      "mean_accuracy": 0.3999,
+      "std_accuracy": 0.0073,
+      "slope": 0.0078,
+      "accuracies": {
+        "0.0": 0.3976,
+        "0.2": 0.3956,
+        "0.4": 0.4076,
+        "0.6": 0.3904,
+        "0.8": 0.3964,
+        "1.0": 0.4115
+      }
+    },
+    {
+      "question": "What is the title of this book?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.4,
+      "best_accuracy": 0.8387,
+      "mean_accuracy": 0.8255,
+      "std_accuracy": 0.0084,
+      "slope": -0.0068,
+      "accuracies": {
+        "0.0": 0.8337,
+        "0.2": 0.8138,
+        "0.4": 0.8387,
+        "0.6": 0.8206,
+        "0.8": 0.8257,
+        "1.0": 0.8206
+      }
+    },
+    {
+      "question": "What type of book is this?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.8,
+      "best_accuracy": 0.3367,
+      "mean_accuracy": 0.3121,
+      "std_accuracy": 0.0134,
+      "slope": 0.0057,
+      "accuracies": {
+        "0.0": 0.3212,
+        "0.2": 0.3065,
+        "0.4": 0.2949,
+        "0.6": 0.3044,
+        "0.8": 0.3367,
+        "1.0": 0.3091
+      }
+    },
+    {
+      "question": "Who is the author of this book?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.0,
+      "best_accuracy": 0.8584,
+      "mean_accuracy": 0.8479,
+      "std_accuracy": 0.0063,
+      "slope": -0.006,
+      "accuracies": {
+        "0.0": 0.8584,
+        "0.2": 0.8455,
+        "0.4": 0.8429,
+        "0.6": 0.8411,
+        "0.8": 0.8543,
+        "1.0": 0.8451
+      }
+    },
+    {
+      "question": "Who wrote this book?",
+      "cluster": "Temperature-robust",
+      "best_temperature": 0.4,
+      "best_accuracy": 0.8413,
+      "mean_accuracy": 0.8364,
+      "std_accuracy": 0.0049,
+      "slope": -0.0026,
+      "accuracies": {
+        "0.0": 0.8309,
+        "0.2": 0.8392,
+        "0.4": 0.8413,
+        "0.6": 0.841,
+        "0.8": 0.8368,
+        "1.0": 0.8288
+      }
+    }
+  ],
+  "Temperature-sensitive": []
+}
